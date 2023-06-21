@@ -1,0 +1,11 @@
+.vscode/
+.vs/
+out/
+obj/
+bin/
+*.tar.gz
+*.tar.bz2
+*.out
+*.o
+*.exe
+node_modules/
